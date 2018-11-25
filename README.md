@@ -1,2 +1,2 @@
-# Shiny_FB_project
-The Shiny coded for the project on Facebook political filter bubbles
+# Shiny FaceBook project
+The Shiny codes for the project on Facebook political filter bubbles
